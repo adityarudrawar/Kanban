@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-dev-app-afa51": {
+      "hosting": {
+        "firestarter-demo": [
+          "my-dev-app-afa51"
+        ]
+      }
+    }
+  }
+}
